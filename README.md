@@ -1,4 +1,4 @@
-# US Tech Nerd from the Old World!
+# 🐺 US Tech Nerd from the Old World!
 I keep most of my work private, but I'll make a few contribution here and there to make this profile relevant.
 
 ## Top Repos
