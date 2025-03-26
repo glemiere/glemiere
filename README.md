@@ -10,3 +10,5 @@ I keep most of my work private, but I'll make a few contribution here and there 
 - 💻 Selling my time for $$$
 - 🤓 Constantly studying
 - 👑 Actively planning to take over the world
+
+More at [will.lemiere.io](https://will.lemiere.io/)
